@@ -1,0 +1,17 @@
+TEXT ANALYZER REPORT
+
+Characters: 196
+Words: 38
+Lines: 4
+
+Most Common Words:
+are: 3
+tim: 3
+king: 2
+arthur: 2
+what: 2
+you: 2
+manner: 1
+of: 1
+man: 1
+that: 1
