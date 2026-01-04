@@ -1,27 +1,25 @@
+# Text Analyzer CLI
 
+A command-line text analysis tool built with Python that processes user input and returns useful insights such as word count, character count, and basic text statistics.
 
-## Project: Text Analyzer CLI
+---
 
-You will build a script that:
-- Asks the user for a path to a `.txt` file.
-- Reads the file.
-- Counts:
-  - Total number of characters
-  - Total number of words
-  - Total number of lines
-- Finds the 10 most common words and how many times they appear.
-- Prints a simple text report to the terminal.
+## Features
+- Accepts user-provided text input
+- Counts words and characters
+- Provides quick text insights
+- Simple and intuitive CLI interface
 
-### Suggested Steps
-1. Open `text_analyzer.py`.
-2. Write code to ask the user for a file path.
-3. Write a function to read the file contents.
-4. Write a function to compute basic stats (characters, words, lines).
-5. Write a function to compute the 10 most common words.
-6. In `main()`, glue everything together and print the report.
+---
 
-### Stretch Goals
-- Ignore capitalization (treat "The" and "the" as the same word).
-- Ignore common stop words like "the", "and", "a", "to".
-- Allow the user to optionally save the report to a new file.
+## Technologies Used
+- Python
+- Command Line Interface (CLI)
 
+---
+
+## How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SunshineKeys/day-one-text-analyzer-cli
